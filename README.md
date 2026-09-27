@@ -14,6 +14,10 @@ This project explores **Qt's Model/View architecture**, database integration, CR
 * 📊 Live database-backed table
 * ⚠️ Confirmation & error dialogs
 
+## 📸 Screenshot
+
+![Contacts Manager](Contact-manager1.png)
+
 ## 🛠️ Tech Stack
 
 * **Python 3**
