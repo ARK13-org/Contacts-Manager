@@ -16,7 +16,8 @@ This project explores **Qt's Model/View architecture**, database integration, CR
 
 ## 📸 Screenshot
 
-![Contacts Manager](Contact-manager1.png)
+![Contacts Manager](Contact_manager1.png)
+![Contacts Manager](Contact_manager2.png)
 
 ## 🛠️ Tech Stack
 
